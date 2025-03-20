@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(49, 45, 45);
+}
+
+#header {
+    background-color: #e890f4;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.content {
+    font-family: 'Arial', sans-serif;
+    padding: 15px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.styled-image {
+    width: 200px;
+    border: 5px solid #ccc;
+    padding: 10px;
+    margin: 10px auto;
+    display: block;
+}
+
+.highlight {
+    color: #e890f4;
+    border: 2px solid lightblue;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Georgia', serif;
+    width: 200px;
+    align-self: center;
+}
+
+body {
+    margin: 0;
+}
